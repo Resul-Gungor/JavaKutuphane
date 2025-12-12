@@ -13,7 +13,7 @@ Bu proje, aşağıdaki ekip üyeleri tarafından ortaklaşa gerçekleştirilmiş
 | Ad Soyad              | GitHub Profili |
 |:----------------------|  :--- |
 | **Resül Güngör**      |  [GitHub Profili](https://github.com/Resul-Gungor) |
-| **Umut Rahman Polat** |  [GitHub Profili Linki] |
+| **Umut Rahman Polat** |  [GitHub Profili](https://github.com/umutrahmanpolat) |
 | **Sezer Özlem**       |  [GitHub Profili](https://github.com/sezerozlem) |
 
 ---
